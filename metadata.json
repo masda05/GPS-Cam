@@ -1,0 +1,6 @@
+{
+  "name": "GPS Camera Pro",
+  "description": "Professional field app for capturing photos with GPS location metadata, watermarks, project status models, and PDF report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
